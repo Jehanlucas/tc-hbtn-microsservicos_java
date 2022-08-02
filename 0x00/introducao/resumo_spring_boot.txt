@@ -1,0 +1,21 @@
+O que é Spring Boot Framework?
+
+Um frameword Java que tem como base as aplicações MVC 
+
+Quais são os benefícios e recursos que Spring Boot fornece?
+
+- Servidor WEB já integrado - ToomCat
+- Facil acoplamento e utilização de dependencias 
+- Facíl execução
+
+Como é feita a adição de novas dependências (JPA, Hibernate, etc…) ?
+
+PAra adicionar as dependencias utilizamos o Maven, essas dependencias são gerenciadas pelo pom.xml ao acrescentarmos as dapendencias basta atualizar o Maven project
+
+Na sua opinião, qual é a melhor IDE para trabalhar com o Spring Boot: Spring Tools Suites, IntelliJ IDEA, Eclipse ou NetBeans ?
+
+Spring Tools Suites pois ela já foi desenvolvida como ferramenta auxiliar ao framework  Spring 
+
+O que é Spring Initializr?
+
+E onde criamos um projeto em Spring e definimos o artifact, dependencias, versão do projeto dentre outras coisas relacionadas ao Spring 
